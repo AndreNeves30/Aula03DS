@@ -40,7 +40,7 @@ namespace Aula03DS
             // 
             // labelTexto
             // 
-            this.labelTexto.Location = new System.Drawing.Point(249, 19);
+            this.labelTexto.Location = new System.Drawing.Point(175, 19);
             this.labelTexto.Name = "labelTexto";
             this.labelTexto.Size = new System.Drawing.Size(400, 24);
             this.labelTexto.TabIndex = 0;
@@ -50,7 +50,7 @@ namespace Aula03DS
             // chkGarnet
             // 
             this.chkGarnet.AutoSize = true;
-            this.chkGarnet.Location = new System.Drawing.Point(34, 71);
+            this.chkGarnet.Location = new System.Drawing.Point(25, 72);
             this.chkGarnet.Name = "chkGarnet";
             this.chkGarnet.Size = new System.Drawing.Size(58, 17);
             this.chkGarnet.TabIndex = 2;
@@ -83,7 +83,7 @@ namespace Aula03DS
             // labelNome
             // 
             this.labelNome.AutoSize = true;
-            this.labelNome.Location = new System.Drawing.Point(387, 474);
+            this.labelNome.Location = new System.Drawing.Point(301, 474);
             this.labelNome.Name = "labelNome";
             this.labelNome.Size = new System.Drawing.Size(117, 13);
             this.labelNome.TabIndex = 5;
@@ -92,7 +92,7 @@ namespace Aula03DS
             // 
             // pictureBoxFormas
             // 
-            this.pictureBoxFormas.Location = new System.Drawing.Point(252, 46);
+            this.pictureBoxFormas.Location = new System.Drawing.Point(175, 46);
             this.pictureBoxFormas.Name = "pictureBoxFormas";
             this.pictureBoxFormas.Size = new System.Drawing.Size(400, 400);
             this.pictureBoxFormas.TabIndex = 1;
@@ -102,7 +102,7 @@ namespace Aula03DS
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(821, 496);
+            this.ClientSize = new System.Drawing.Size(611, 496);
             this.Controls.Add(this.labelNome);
             this.Controls.Add(this.chkAmetista);
             this.Controls.Add(this.chkPerola);

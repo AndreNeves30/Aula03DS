@@ -35,7 +35,7 @@ namespace Aula03DS
                 pictureBoxFormas.Image = Properties.Resources.perola1;
             }
             else if (chkGarnet.Checked && chkPerola.Checked && !chkAmetista.Checked)
-            {
+            {   
                 labelTexto.Text = "Sardonyx";
                 pictureBoxFormas.Image = Properties.Resources.sardonyx1;
             }
